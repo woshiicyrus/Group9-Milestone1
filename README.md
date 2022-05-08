@@ -25,5 +25,3 @@ Then, we flashed the HEX file to the board to see the result of the blinky.
 **Photo**
 
 **Youtube Link**
-
-**Source Code**
