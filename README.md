@@ -23,5 +23,6 @@ we set the value as 1000ms, the value can be changed to a higher value to config
 Then, we flashed the HEX file to the board to see the result of the blinky.
 
 **Photo**
+![image](https://drive.google.com/file/d/155MOO8l5qxY_Ly8OCuMOby5joLwgX3Hs/view?usp=sharing)
 
 **Youtube Link**
