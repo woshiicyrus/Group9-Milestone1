@@ -26,3 +26,4 @@ Then, we flashed the HEX file to the board to see the result of the blinky.
 ![image](https://imgur.com/a/5m9NZcx)
 
 **Youtube Link**
+https://www.youtube.com/watch?v=lIQ3XBnW-Fk
