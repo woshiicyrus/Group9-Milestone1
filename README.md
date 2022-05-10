@@ -1,7 +1,7 @@
 # Group9-Milestone1
 Blinky on STM32F411CEU6
 
-**Group Member**
+## Group Member
 
 Yap Swee King - MKE211094
 
@@ -9,7 +9,7 @@ Muhammad Syakir bin Ahmad Zahiri - MKE211071
 
 Rafiqi bin Rosli - MKE211067
 
-**Overview**
+## Overview
 
 Board used: STM32F411CEU6 (Cortex M4)
 
@@ -22,8 +22,12 @@ After the code generation, we programmed the pin 13 to ON by setting it to 1, wh
 we set the value as 1000ms, the value can be changed to a higher value to configure the duration of the delay. 
 Then, we flashed the HEX file to the board to see the result of the blinky.
 
-**Photo**
-![image](https://imgur.com/a/5m9NZcx)
+## Youtube Link
 
-**Youtube Link**
 https://www.youtube.com/watch?v=lIQ3XBnW-Fk
+
+## Photo
+### LED OFF
+![LED OFF](https://github.com/woshiicyrus/Group9-Milestone1/blob/main/LED%20OFF.jpg)
+### LED ON
+![LED ON](https://github.com/woshiicyrus/Group9-Milestone1/blob/main/LED%20ON.jpg)
